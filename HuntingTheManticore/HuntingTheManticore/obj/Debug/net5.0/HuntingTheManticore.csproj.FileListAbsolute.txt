@@ -1,0 +1,15 @@
+/Users/orlandolopez/Documents/Repos/HuntingtheManticore/HuntingtheManticore/HuntingTheManticore/HuntingTheManticore/bin/Debug/net5.0/HuntingTheManticore.deps.json
+/Users/orlandolopez/Documents/Repos/HuntingtheManticore/HuntingtheManticore/HuntingTheManticore/HuntingTheManticore/bin/Debug/net5.0/HuntingTheManticore.runtimeconfig.json
+/Users/orlandolopez/Documents/Repos/HuntingtheManticore/HuntingtheManticore/HuntingTheManticore/HuntingTheManticore/bin/Debug/net5.0/HuntingTheManticore.runtimeconfig.dev.json
+/Users/orlandolopez/Documents/Repos/HuntingtheManticore/HuntingtheManticore/HuntingTheManticore/HuntingTheManticore/bin/Debug/net5.0/HuntingTheManticore.dll
+/Users/orlandolopez/Documents/Repos/HuntingtheManticore/HuntingtheManticore/HuntingTheManticore/HuntingTheManticore/bin/Debug/net5.0/ref/HuntingTheManticore.dll
+/Users/orlandolopez/Documents/Repos/HuntingtheManticore/HuntingtheManticore/HuntingTheManticore/HuntingTheManticore/bin/Debug/net5.0/HuntingTheManticore.pdb
+/Users/orlandolopez/Documents/Repos/HuntingtheManticore/HuntingtheManticore/HuntingTheManticore/HuntingTheManticore/obj/Debug/net5.0/HuntingTheManticore.csproj.AssemblyReference.cache
+/Users/orlandolopez/Documents/Repos/HuntingtheManticore/HuntingtheManticore/HuntingTheManticore/HuntingTheManticore/obj/Debug/net5.0/HuntingTheManticore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orlandolopez/Documents/Repos/HuntingtheManticore/HuntingtheManticore/HuntingTheManticore/HuntingTheManticore/obj/Debug/net5.0/HuntingTheManticore.AssemblyInfoInputs.cache
+/Users/orlandolopez/Documents/Repos/HuntingtheManticore/HuntingtheManticore/HuntingTheManticore/HuntingTheManticore/obj/Debug/net5.0/HuntingTheManticore.AssemblyInfo.cs
+/Users/orlandolopez/Documents/Repos/HuntingtheManticore/HuntingtheManticore/HuntingTheManticore/HuntingTheManticore/obj/Debug/net5.0/HuntingTheManticore.csproj.CoreCompileInputs.cache
+/Users/orlandolopez/Documents/Repos/HuntingtheManticore/HuntingtheManticore/HuntingTheManticore/HuntingTheManticore/obj/Debug/net5.0/HuntingTheManticore.dll
+/Users/orlandolopez/Documents/Repos/HuntingtheManticore/HuntingtheManticore/HuntingTheManticore/HuntingTheManticore/obj/Debug/net5.0/ref/HuntingTheManticore.dll
+/Users/orlandolopez/Documents/Repos/HuntingtheManticore/HuntingtheManticore/HuntingTheManticore/HuntingTheManticore/obj/Debug/net5.0/HuntingTheManticore.pdb
+/Users/orlandolopez/Documents/Repos/HuntingtheManticore/HuntingtheManticore/HuntingTheManticore/HuntingTheManticore/obj/Debug/net5.0/HuntingTheManticore.genruntimeconfig.cache
